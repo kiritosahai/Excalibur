@@ -7,6 +7,7 @@
 ## 🚀 Live Preview
 
 🔗 [Launch PlantGuard AI](https://preview--plantguard-ai-bloom-61.lovable.app/)
+SAMPLE IMAGE https://drive.google.com/file/d/1exJZPPXOzALvrhPXQQfaFyzdswzYYFub/view?usp=drive_link
 
 🎥 **Demo Video**  
 https://www.youtube.com/watch?v=zO8f__LVMCU
