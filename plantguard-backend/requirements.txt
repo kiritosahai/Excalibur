@@ -1,0 +1,5 @@
+
+numpy==1.21.6
+tensorflow==2.10.0
+pillow==9.2.0
+kaggle==1.5.13
