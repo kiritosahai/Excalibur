@@ -4,6 +4,25 @@
 ## Project Overview
 PlantGuard is an AI-powered plant disease diagnosis application.
 
+## Folder Structure
+```
+plantguard-backend/
+├── app.js                  # Main Express application
+├── package.json            # Node.js dependencies
+├── routes/
+│   └── analyze.js          # API routes for plant analysis
+├── services/
+│   └── pythonService.js    # Service to interact with Python script
+├── uploads/
+│   └── (uploaded images)   # Folder for storing uploaded plant images
+├── venv/                   # Python virtual environment
+├── kaggle.json             # Your Kaggle API key
+├── data/                   # Downloaded Kaggle data
+│   └── train.csv
+├── plantguard_ai.py        # Python script calling Kaggle dataset
+└── README.md               # This file
+```
+
 ## Setup Instructions
 
 ### Prerequisites
