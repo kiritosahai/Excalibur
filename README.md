@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 🌿 PlantGuard AI – Plant Health Assistant
 
-## Project info
+**PlantGuard AI** is an AI-powered web application designed to help users identify plants, diagnose diseases, and receive personalized care instructions. Built on the [Lovable](https://lovable.app) no-code platform, it combines artificial intelligence and intuitive UX to promote smarter, greener plant care for everyone.
 
-**URL**: https://lovable.dev/projects/ce80370f-9648-4389-91db-b3c343b266d0
+---
 
-## How can I edit this code?
+## 🚀 Live Preview
 
-There are several ways of editing your application.
+🔗 [Launch PlantGuard AI](https://preview--plantguard-ai-bloom-61.lovable.app/)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ce80370f-9648-4389-91db-b3c343b266d0) and start prompting.
+## 🔧 Built With
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Lovable.dev** – No-code app builder
+- **AI Assistant** – Natural language processing for plant identification and care
+- **Custom Prompts** – Trained logic for plant health recommendations
+- **Responsive Design** – Accessible on both desktop and mobile
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🌱 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🌼 **Plant Identification** – Quickly recognize plant species by name or image
+- 🛡️ **Disease Diagnosis** – Detect early-stage plant diseases using AI analysis
+- 💧 **Care Recommendations** – Personalized tips on watering, nutrients, and sunlight
+- 📚 **Educational Insights** – Learn about common plant conditions and treatments
+- 🤖 **AI-Driven Chat Interface** – Conversational plant care experience
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📌 How It Works
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Ask questions like:
+   - *"How often should I water my aloe vera?"*
+   - *"What’s wrong with my tomato leaves?"*
+2. The AI responds with:
+   - Plant care details
+   - Diagnosis for symptoms
+   - Suggested actions or treatments
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 💡 Future Enhancements
 
-**Edit a file directly in GitHub**
+- 📸 **Image Upload for AI Diagnosis**
+- 🔒 **User Accounts for Personalization**
+- 🌍 **Database Integration for Plant Metadata**
+- 📱 **Full Mobile App Version**
+- 🧪 **AR Plant Scanning Feature**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🙌 Contribution & Feedback
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+This project is actively evolving.  
+Feel free to fork, remix, or reach out with suggestions.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📝 License
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**MIT License** – Open for educational and personal use.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/ce80370f-9648-4389-91db-b3c343b266d0) and click on Share -> Publish.
+## 📂 Repository Owner
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Maintained by [Kirito Sahai](https://github.com/kiritosahai)
