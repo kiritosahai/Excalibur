@@ -7,6 +7,7 @@
 ## 🚀 Live Preview
 
 🔗 [Launch PlantGuard AI](https://preview--plantguard-ai-bloom-61.lovable.app/)
+
 SAMPLE IMAGE https://drive.google.com/file/d/1exJZPPXOzALvrhPXQQfaFyzdswzYYFub/view?usp=drive_link
 
 🎥 **Demo Video**  
@@ -73,8 +74,9 @@ This helps users become confident, informed plant owners—leading to healthier 
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:  
-   ```basH
-(https://github.com/kiritosahai/Excalibur)
+   ```basH (https://github.com/kiritosahai/Excalibur)
+
+
 Name | Roll Number | Role
 Kushagra Sahai | 11024210204 | Team Leader
 Kishlay Kaushal | 11024210222 | Member
